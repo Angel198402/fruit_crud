@@ -1,5 +1,5 @@
 # Fruit Test
-- git clone https://github.com/Devband777/fruit-task-symfony-vue.js-.git
+
 ## BackEnd Installation:
 
 ### Installation
